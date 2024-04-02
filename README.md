@@ -1,3 +1,4 @@
 # flutter_google_maps
 
-A new Flutter project.
+Pemrograman Perangkat Bergerak 
+Slicing Google Maps lengkap dengan Geolocation
